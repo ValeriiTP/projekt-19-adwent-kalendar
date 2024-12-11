@@ -42,8 +42,6 @@ h2 {
   align-items: center;
   border-radius: 30px;
   position: relative;
-  overflow: hidden;
-  cursor: pointer;
   transition: transform 0.3s ease, background-color 0.3s ease, opacity 0.3s ease;
   border: 5px solid #003366;
   background-size: cover;
